@@ -3,4 +3,4 @@ This repository contains the presentations and the code files of the product sol
 I had developed a conceptual design which means that the design need not be implemented on a physical chip but rather implemented on an 
 FPGA and must have been thoroughly simulated along with a test plan.
 
-![image description](Cadence_Design_Contest_2018/HNN_architecture.jpg)
+![image description](HNN_architecture.jpg)
